@@ -26,6 +26,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duman011&show_icons=true&locale=en&theme=tokyonight" alt="duman011" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duman011&theme=tokyonight" alt="duman011" /></p>
