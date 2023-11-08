@@ -13,11 +13,9 @@
 </div>
 
 ---
-
-### <p align="center">About Me 💫</p>
-
 <img  align="right" width="315" src="https://github.com/duman011/duman011/assets/81991720/bb9adc1e-b378-4928-b4fd-a2cd838eeaeb">
 
+### 💫 About Me 
 
 - [x] Computer Engineer 💻 
 - [x] IOS Developer 📱 
