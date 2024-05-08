@@ -6,7 +6,7 @@
 </div>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&size=30&duration=3500&pause=1000&color=31CBC0&center=true&vCenter=true&random=false&width=435&lines=HELLO+THERE!++%F0%9F%91%BE++WELCOME++%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;MY+NAME+IS+YASAR+%F0%9F%91%8B+" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=30&duration=3500&pause=1000&color=31CBC0&center=true&vCenter=true&random=false&width=435&lines=HELLO+THERE!++%F0%9F%91%BE++WELCOME++%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;MY+NAME+IS+YASAR+%F0%9F%91%8B+" alt="Typing SVG">
 </p>
 
 <!--  DIVIDER  -->
