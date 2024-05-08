@@ -11,9 +11,7 @@
 
 <!--  DIVIDER  -->
 ---
-
-<!--  HI PIKACHU  -->
-<img src="https://github.com/yasarduman/yasarduman/assets/81991720/a2554638-9060-4f88-a16d-ab33afbdafa8" align="right" width="15%" alt="pikachu-hi">
+<img  align="right" width="315" src="https://github.com/duman011/duman011/assets/81991720/bb9adc1e-b378-4928-b4fd-a2cd838eeaeb">
 
 ### 💫 About Me 
 
