@@ -12,9 +12,10 @@
 </div>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" height="2" src="https://github.com/yasarduman/yasarduman/assets/81991720/97d98d92-93dd-4932-8ff7-7b5cd28fcbc3">
+---
 
-<img  align="right" width="315" src="https://github.com/duman011/duman011/assets/81991720/bb9adc1e-b378-4928-b4fd-a2cd838eeaeb">
+<!--  HI PIKACHU  -->
+<img src="https://github.com/yasarduman/yasarduman/assets/81991720/a2554638-9060-4f88-a16d-ab33afbdafa8" align="right" width="15%" alt="pikachu-hi">
 
 ### 💫 About Me 
 
@@ -24,7 +25,7 @@
 - [x] Contact with me! [01.yasarduman@gmail.com](mailto:01.yasarduman@gmail.com) 📫
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" height="2" src="https://github.com/yasarduman/yasarduman/assets/81991720/97d98d92-93dd-4932-8ff7-7b5cd28fcbc3">
+---
 
 
 
