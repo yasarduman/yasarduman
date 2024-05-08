@@ -18,7 +18,7 @@
 - [x] Computer Engineer 💻 
 - [x] IOS Developer 📱 
 - [x] I Love Swift 🥇
-- [x] Contact with me! [01.yasarduman@gmail.com](mailto:01.yasarduman@gmail.com) 📫 <br/>
+- [x] Contact with me! [01.yasarduman@gmail.com](mailto:01.yasarduman@gmail.com) 📫 
 
 <!--  DIVIDER  -->
 ---
